@@ -22,7 +22,7 @@ Accept payments via UnitPay ([unitpay.ru](https://unitpay.ru/)) using this Larav
 Require this package with composer.
 
 ``` bash
-composer require "maksa988/laravel-unitpay:2.*"
+composer require "quantf0rce/laravel-unitpay"
 ```
 
 If you don't use auto-discovery, add the ServiceProvider to the providers array in `config/app.php`
