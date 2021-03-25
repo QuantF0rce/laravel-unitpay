@@ -1,5 +1,5 @@
 {
-    "name": "maksa988/laravel-unitpay",
+    "name": "QuantF0rce/laravel-unitpay",
     "description": "UnitPay payments for Laravel",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.2.5",
-        "laravel/framework": "7.*",
+        "laravel/framework": "8.*",
         "guzzlehttp/guzzle": "6.*"
     },
     "require-dev": {
